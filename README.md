@@ -1,1 +1,1 @@
-# Hierarchy_Devorator
+# Hierarchy_Decorator
